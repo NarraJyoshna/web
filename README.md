@@ -1,6 +1,6 @@
 # web
 first front end web app with basic HTML &amp; CSS
-!DOCTYPPE>
+<!DOCTYPPE>
 <html>
     <head>
 <title>pranavi.com</title>
